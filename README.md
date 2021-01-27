@@ -7,6 +7,13 @@ It uses external componets:
 * [RedBeanPHP 5.6.2](https://www.redbeanphp.com/)
 * [Wowhead Classic Tooltips](https://classic.wowhead.com/tooltips)
 
+Some Web tools:
+
+* Bootstrap 4.4.1
+* Fontawesome 5.7.0
+* JQuery 3.4.1
+* Popper 1.16.0 (js for tooltip)
+
 ## Installation
 
 Clone the repository and install in your web main folder.
