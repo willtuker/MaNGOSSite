@@ -2,8 +2,9 @@
 An unofficial website for MaNGOS
 
 It uses external componets:
-[CodeIgniter 4.0.4](https://www.codeigniter.com/)
-[RedBeanPHP 5.6.2](https://www.redbeanphp.com/)
+
+*[CodeIgniter 4.0.4](https://www.codeigniter.com/)
+*[RedBeanPHP 5.6.2](https://www.redbeanphp.com/)
 
 ## Installation
 
@@ -11,7 +12,9 @@ Clone the repository and install in your web main folder.
 
 Settings for database connection are located in
 >app/Config/Constants.php
+
 and are the following
+
 ```PHP
 //Redbean params
 defined('RB_DB_HOST')           || define('RB_DB_HOST','localhost');
