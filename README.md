@@ -33,9 +33,5 @@ defined('RB_DB_DBNAME_WORLD')           || define('RB_DB_DBNAME_WORLD','zero_wor
 defined('RB_DB_DBNAME_REALM')           || define('RB_DB_DBNAME_REALM','zero_realm');
 ```
 
-## Contributing
-Pull requests are welcome. 
-For major changes, please open an issue first to discuss what you would like to change.
-
 ## License
 [The Unlicense](https://unlicense.org)
