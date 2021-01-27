@@ -6,9 +6,6 @@ It uses external componets:
 * [CodeIgniter 4.0.4](https://www.codeigniter.com/)
 * [RedBeanPHP 5.6.2](https://www.redbeanphp.com/)
 * [Wowhead Classic Tooltips](https://classic.wowhead.com/tooltips)
-
-Some Web tools:
-
 * Bootstrap 4.4.1
 * Fontawesome 5.7.0
 * JQuery 3.4.1
