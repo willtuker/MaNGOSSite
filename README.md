@@ -1,10 +1,10 @@
 # MaNGOSSite
-An unofficial website for MaNGOS
+An unofficial website for [MaNGOS](https://www.getmangos.eu/)
 
 It uses external componets:
 
-*[CodeIgniter 4.0.4](https://www.codeigniter.com/)
-*[RedBeanPHP 5.6.2](https://www.redbeanphp.com/)
+* [CodeIgniter 4.0.4](https://www.codeigniter.com/)
+* [RedBeanPHP 5.6.2](https://www.redbeanphp.com/)
 
 ## Installation
 
