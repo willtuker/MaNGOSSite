@@ -5,6 +5,7 @@ It uses external componets:
 
 * [CodeIgniter 4.0.4](https://www.codeigniter.com/)
 * [RedBeanPHP 5.6.2](https://www.redbeanphp.com/)
+* [Wowhead Classic Tooltips](https://classic.wowhead.com/tooltips)
 
 ## Installation
 
